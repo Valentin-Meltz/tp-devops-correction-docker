@@ -24,4 +24,4 @@ jobs:
 
      #finally build your app with the latest command
       - name: Build and test with Maven
-        run: mvn -B -ntp --file simple-api/pom.xml clean verify
+        run: mvn --file simple-api/pom.xml clean verify
