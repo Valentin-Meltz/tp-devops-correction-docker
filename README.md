@@ -1,8 +1,6 @@
 # TP DevOps - Docker Containers
 
 ## TP_2
-There is my repository for TP2 : [Here](https://github.com/Valentin-Meltz/tp-devops-correction-docker)
-
 ### 2.1
 You can easily start and stop real services (like databases or message queues) during tests.
 It helps you test your app with real dependencies, not just mock services.
